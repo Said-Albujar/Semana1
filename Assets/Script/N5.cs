@@ -9,6 +9,7 @@ public class N5 : MonoBehaviour
     {
         int[] values = new int[6];
         int acumulador;
+
         values[0] = 21;
         values[1] = 58;
         values[2] = 10;
@@ -16,6 +17,7 @@ public class N5 : MonoBehaviour
         values[4] = 47;
         values[5] = 29;
         acumulador = 0;
+
         for (int i = 0; i < values.Length; i++)
         {
             if (values[i] > 0)
