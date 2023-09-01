@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class N5 : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
         int[] values = new int[6];
@@ -28,7 +27,6 @@ public class N5 : MonoBehaviour
         Debug.Log(acumulador);
     }
 
-    // Update is called once per frame
     void Update()
     {
         

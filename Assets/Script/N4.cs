@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class N4 : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
             int n = 4;
@@ -17,7 +16,6 @@ public class N4 : MonoBehaviour
             }
     }
 
-    // Update is called once per frame
     void Update()
     {
         
